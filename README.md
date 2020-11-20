@@ -1,4 +1,4 @@
-# distance_between_2_poins_using_latitude_logitude_javascript
+  //distance_between_2_poins_using_latitude_logitude_javascript
 
     //This function takes in latitude and longitude of two location and returns the distance between them as the crow flies (in km)
     function distance(lat1, lon1, lat2, lon2) 
